@@ -4,7 +4,8 @@
 
 <div>
 
-I am a highly skilled Senior AI Software & Data Engineer specializing in building **AI-powered solutions, scalable data pipelines**, and **high-performance applications**. With over 10 years of experience, I excel in **end-to-end development** using **Python, JavaScript/TypeScript, and modern frameworks** such as React, Next.js, Node.js, Vue, Angular, Django, Flask, and FastAPI. I integrate AI/ML models, build robust data architectures, optimize cloud deployments, and deliver maintainable, reliable, and high-performance systems. I thrive in Agile environments, collaborating across teams, mentoring developers, and delivering projects that combine **cutting-edge AI/ML** with real-world data-driven applications.
+**Senior AI Software & Data Engineer** with over 10 years of experience designing, building, and deploying intelligent AI solutions and scalable data platforms. Specialized in Generative AI, autonomous multi-agent systems, LLM orchestration, RAG architectures, and modern data engineering. Experienced in developing high-performance data pipelines, ETL/ELT workflows, data processing systems, and cloud-native AI applications using Python, SQL, Apache Spark, Databricks, and AWS. Strong expertise in integrating LLMs, vector databases, and AI-driven workflows into production environments to deliver reliable, scalable, and data-driven solutions. Proficient in designing end-to-end AI and data architectures, optimizing system performance, and collaborating with cross-functional teams to transform complex business requirements into impactful technology solutions.
+
 </div>
 
 ### Dev Quote
