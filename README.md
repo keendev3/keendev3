@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keen0429&label=Profile%20views&color=0e75b6&style=flat" alt="keen0429" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keendev3&label=Profile%20views&color=0e75b6&style=flat" alt="keendev3" /> </p>
 
 <h1 align="center">𝑺𝒆𝒏𝒊𝒐𝒓 𝑨𝑰 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 & 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h1>
 
@@ -15,10 +15,10 @@
 ### Github Stats
 
 <div align="center">
-<a href="https://github.com/keen0429?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=keen0429&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@keen0429's github-readme-streak-stats"/></a>
+<a href="https://github.com/keendev3?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=keendev3&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@keendev3's github-readme-streak-stats"/></a>
 </div>
 <div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=keen0429&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="keen0429"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=keendev3&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="keendev3"/>
 </div>
 
 <p align="center">
